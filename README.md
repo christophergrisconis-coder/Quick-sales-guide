@@ -1,0 +1,1 @@
+ this is just a off-line app that does not require any information connected to a bank or anything. Simply just to help you input information if you have a goal for example you have $1000 credit card it would tell you exactly how much to spend and how much to pay on that credit card and when to pay it in order for you to get a perfect report every time on that one credit line.
